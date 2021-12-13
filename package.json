@@ -15,7 +15,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "firebase": "^9.6.1",
     "gatsby": "^4.3.0",
+    "gatsby-source-google-calendar": "^1.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
