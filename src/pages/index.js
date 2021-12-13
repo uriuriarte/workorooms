@@ -1,6 +1,4 @@
-import React, { useEffect } from "react";
-
-import { firebase } from "../Firebase/firebase";
+import React from "react";
 import { auth } from "../Firebase/firebase";
 import { signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 
